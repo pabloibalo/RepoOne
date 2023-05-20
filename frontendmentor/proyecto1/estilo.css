@@ -1,0 +1,49 @@
+
+/*body*/
+body {
+
+}
+
+
+
+
+/*Principal*/
+
+.principal {
+    display: flex;
+}
+
+
+/* primer bloque */
+#primerBloque {
+    display: block;
+    background-color: rgb(94, 53, 177); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#YourResult     {
+    color: gray;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#numeroGrande {
+    color: brown;
+    font-size: 60px;
+    font-weight: bold;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+}
+    
+#numeroChico {
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*segundo bloque*/
+
+#segundoBloque {
+    display:inline-block;
+    color:brown ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
